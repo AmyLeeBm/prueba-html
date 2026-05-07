@@ -1,7 +1,7 @@
  body {
       margin: 0;
       font-family: 'Segoe UI', sans-serif;
-      background: #7f8a84;
+      background: #bcc4cc;
       color: #333;
     }
 
@@ -12,7 +12,7 @@
     }
 
     .header {
-      background: #e68f1d;
+      background: #eec5a2;
       color: rgb(191 80 0);
       padding: 20px;
       border-radius: 12px;
