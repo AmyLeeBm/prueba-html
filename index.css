@@ -1,7 +1,7 @@
  body {
       margin: 0;
       font-family: 'Segoe UI', sans-serif;
-      background: #bcc4cc;
+      background: #c9ced3;
       color: #333;
     }
 
@@ -12,7 +12,7 @@
     }
 
     .header {
-      background: #eec5a2;
+      background: #fc7404;
       color: rgb(191 80 0);
       padding: 20px;
       border-radius: 12px;
@@ -33,7 +33,7 @@
     }
 
     .card {
-      background: #eec5a2;
+      background: #fc7404;
       border-radius: 12px;
       padding: 15px;
       box-shadow: 0 6px 15px rgba(0,0,0,0.08);
@@ -58,7 +58,7 @@
       margin-top: 10px;
       padding: 10px 16px;
       background: #bf5000;
-      color: #eec5a2;
+      color: #fc7404;
       text-decoration: none;
       border-radius: 8px;
       font-size: 16px;
